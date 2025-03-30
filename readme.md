@@ -2,5 +2,5 @@
 ## My first personal website
 ### Updates 
 
-[x] - Initial Commit
-[x] - Add feature 1
+### [x] - Initial Commit
+### [x] - Add feature 1

@@ -34,7 +34,6 @@
     position: fixed;
     background: linear-gradient(90deg, #0056b3, #007bff);
     padding: 18px 0;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
 
   /* Flex Layout */
